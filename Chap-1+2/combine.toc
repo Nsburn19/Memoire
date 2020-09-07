@@ -1,0 +1,48 @@
+\babel@toc {french}{}
+\contentsline {chapter}{\numberline {1} \textit { État De L'art } }{4}%
+\contentsline {section}{\numberline {1.1}\LARGE Introduction}{5}%
+\contentsline {subsection}{\numberline {1.1.1}\LARGE Présentation De Messagerie Électronique :}{5}%
+\contentsline {subsection}{\numberline {1.1.2}\huge Histoire:}{6}%
+\contentsline {subsubsection}{\LARGE Préhistoire}{6}%
+\contentsline {subsubsection}{\LARGE Genèse d’une révolution}{8}%
+\contentsline {subsubsection}{\LARGE A star is born}{9}%
+\contentsline {subsubsection}{\LARGE Le côté obscur du mail}{10}%
+\contentsline {subsection}{\numberline {1.1.3}\LARGE L’importance de l‘ e-mail}{10}%
+\contentsline {subsubsection}{\LARGE Email est très rapide}{11}%
+\contentsline {subsubsection}{\LARGE Email est libre}{11}%
+\contentsline {subsubsection}{\LARGE Email peut être envoyé à de nombreuses personnes à la fois:}{12}%
+\contentsline {subsubsection}{\LARGE Email Fournit une communication efficace pour les entreprises et les employés}{12}%
+\contentsline {subsubsection}{\LARGE Fournit Email efficace Mobile Communication}{13}%
+\contentsline {section}{\numberline {1.2}\LARGE Les Principaux concepts: }{13}%
+\contentsline {subsection}{\numberline {1.2.1}\LARGE Protocoles de communication (de transport)}{13}%
+\contentsline {subsubsection}{\LARGE Le protocole SMTP }{14}%
+\contentsline {subsubsection}{\LARGE Le protocole POP }{15}%
+\contentsline {subparagraph}{\LARGE Ainsi, l'utilisateur du courrier électronique met en oeuvre, en général, conjointement deux protocoles : SMTP et POP3. Il envoie des messages en utilisant SMTP (protocole d'envoi) et il récupère les nouveaux messages en utilisant POP3 (protocole facteur). Enfin, entre chaque serveur - celui de l'expéditeur et celui du destinataire - fonctionne encore le protocole SMTP qui a la charge de réceptionner les mails sur le serveur de messagerie. C'est la raison pour laquelle on parle de serveur de messagerie SMTP.}{16}%
+\contentsline {subparagraph}{ \LARGE L'évolution du courrier électronique vers le multimédia et le manque de flexibilité de POP favorisent l'émergence d'un nouveau protocole : l'IMAP.}{16}%
+\contentsline {subsubsection}{\LARGE Le protocole IMAP (Interactive Mail Access Protocol)}{16}%
+\contentsline {subsubsection}{\LARGE Protocoles de contenu}{18}%
+\contentsline {section}{\numberline {1.3}\LARGE Étude Des Exemple:}{20}%
+\contentsline {subsection}{\numberline {1.3.1}\LARGE Messagerie Électronique Gmail}{20}%
+\contentsline {subsubsection}{\LARGE Histoire}{20}%
+\contentsline {subsubsection}{\LARGE Fonctionnement}{21}%
+\contentsline {subsubsection}{\LARGE Fonctionnalités}{22}%
+\contentsline {subsection}{\numberline {1.3.2}\LARGE Messagrie Electronique Yahoo}{22}%
+\contentsline {subsubsection}{\LARGE Histoire}{22}%
+\contentsline {subsubsection}{\LARGE Fonctionnement}{24}%
+\contentsline {subsubsection}{\LARGE Fonctionnalités}{24}%
+\contentsline {section}{\numberline {1.4}\LARGE Étude comparative:}{26}%
+\contentsline {subsubsection}{\LARGE T'chat options}{26}%
+\contentsline {subsubsection}{\LARGE Sécurité}{28}%
+\contentsline {subsubsection}{\LARGE Publicité gratuite}{28}%
+\contentsline {subsubsection}{\LARGE Tabbing automatique des messages}{29}%
+\contentsline {subsubsection}{\LARGE Conclusion}{29}%
+\contentsline {chapter}{\numberline {2} \textit { Étude conceptuelle } }{30}%
+\contentsline {section}{\numberline {2.1}\huge Introduction}{31}%
+\contentsline {section}{\numberline {2.2}\huge La Conception de notre application :}{31}%
+\contentsline {subsection}{\numberline {2.2.1}\LARGE Utilisateur}{31}%
+\contentsline {subsection}{\numberline {2.2.2}\LARGE Messages}{32}%
+\contentsline {subsection}{\numberline {2.2.3}\LARGE Base de données}{33}%
+\contentsline {section}{\numberline {2.3}\huge La Modélisation de notre application :}{35}%
+\contentsline {subsection}{\numberline {2.3.1}\LARGE Diagramme des cas d'utilisation }{35}%
+\contentsline {subsection}{\numberline {2.3.2}\LARGE Diagramme d'activité (UML)}{36}%
+\contentsline {subsection}{\numberline {2.3.3}\LARGE Conclusion}{38}%
